@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, GameDemoActivity!</string>
+    <string name="app_name">GameDemo</string>
+    <string name="Main_Str01">Hello</string>
+    <string name="Main_Str_Start">Start</string>
+    <string name="Main_Str_Set">Setting</string>
+    <string name="Main_Str_Exit">Exit</string>
+    <string-array name="Main_Str_Test">
+		<item >Test</item>
+	</string-array>
+
+</resources>
