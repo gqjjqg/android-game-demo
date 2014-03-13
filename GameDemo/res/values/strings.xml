@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="hello">Hello World, GameDemoActivity!</string>
     <string name="app_name">GameDemo</string>
-    <string name="Main_Str01">Hello</string>
-    <string name="Main_Str_Start">Start</string>
-    <string name="Main_Str_Set">Setting</string>
-    <string name="Main_Str_Exit">Exit</string>
-    <string-array name="Main_Str_Test">
-		<item >Test</item>
-	</string-array>
-
+    <string name="str_start">Start</string>
+    <string name="str_f1">F1</string>
+    <string name="str_f2">F2</string>
+    <string name="str_f3">F3</string>
+    <string name="str_up">Up</string>
+    <string name="str_down">Down</string>
+    <string name="str_left">left</string>
+    <string name="str_right">right</string>
 </resources>

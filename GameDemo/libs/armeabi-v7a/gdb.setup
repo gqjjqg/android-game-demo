@@ -1,0 +1,2 @@
+set solib-search-path ./obj/local/armeabi-v7a
+directory D:/Tools/android/android-ndk-r8e-windows-x86/android-ndk-r8e/platforms/android-8/arch-arm/usr/include jni/CCU_Linux_Dll/inc jni/DEBUG_Linux_Dll/inc jni/CMM_Linux_Dll/inc jni/GEngine2D/Core jni/GEngine2D/Device jni/GEngine2D/ExtCore GEngine2D/ExtCore/CUI jni/GEngine2D/ExtCore/CUI jni/GameDemo jni/GameDemo/Platform D:/Tools/android/android-ndk-r8e-windows-x86/android-ndk-r8e/sources/cxx-stl/system/include
