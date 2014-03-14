@@ -13,9 +13,9 @@ public class MainActivity extends Activity {
 	CSurfaceView mainObj;
 	
 	static {
-		System.loadLibrary("DEBUG_Linux_Dll");
-        System.loadLibrary("CCU_Linux_Dll");
-        System.loadLibrary("CMM_Linux_Dll");
+		System.loadLibrary("DEBUG_LIB");
+        System.loadLibrary("CCU_LIB");
+        System.loadLibrary("CMM_LIB");
         System.loadLibrary("GEngine2D");
         System.loadLibrary("GameDemo");
         System.loadLibrary("native_adapter");
