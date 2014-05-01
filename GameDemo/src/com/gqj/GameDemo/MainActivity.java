@@ -46,8 +46,9 @@ public class MainActivity extends Activity {
         mainObj.registeClickListener(v);
         v = this.findViewById(R.id.button8);
         mainObj.registeClickListener(v);
+        v = this.findViewById(R.id.button9);
+        mainObj.registeClickListener(v);
         
-		
     }
     
     @Override

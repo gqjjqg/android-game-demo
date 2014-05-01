@@ -103,6 +103,9 @@ public class CMainEntry extends Thread implements OnClickListener, OnTouchListen
 		case R.id.button8 :
 			mCore.GEngine_KeyMsg(CCore.GKEY_RIGHT, CCore.GKEY_ACTION_CLICK);
 			break;
+		case R.id.button9 :
+			mCore.GEngine_KeyMsg(CCore.GKEY_SPACE, CCore.GKEY_ACTION_CLICK);
+			break;
 		default:;
 		}
 	}
