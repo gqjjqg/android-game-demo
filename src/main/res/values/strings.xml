@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GameDemo</string>
+    <string name="str_start">Start</string>
+    <string name="str_stand">Stand</string>
+    <string name="str_f1">F1</string>
+    <string name="str_f2">F2</string>
+    <string name="str_f3">F3</string>
+    <string name="str_up">Up</string>
+    <string name="str_down">Down</string>
+    <string name="str_left">left</string>
+    <string name="str_right">right</string>
+</resources>
